@@ -1,6 +1,6 @@
 # Pizza Delivery
 
-[Download The game to play (.rar)](https://github.com/M7snv2017/AI-Game-Project/raw/main/Pizza delivery game.rar)
+[Download The game to play (.rar)](https://github.com/M7snv2017/AI-Game-Project/raw/main/Pizza%20delivery%20game.rar)
 
  
 # Main Page
